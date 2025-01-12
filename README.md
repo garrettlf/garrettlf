@@ -4,9 +4,9 @@ I'm Garrett, and this account is a showcase of my coding projects, data science 
 
 -🔭 I’m currently working on showcasing my skills through personal projects in coding and data science.
 
--🌱 I’m currently learning advanced AI techniques and machine learning frameworks.
+-🌱 I’m currently learning AI techniques, machine learning frameworks, and tricks for deriving more insights from data.
 
--💬 Ask me about my Kaggle projects, REST API development experience, and data analysis work.
+-💬 Ask me about my Kaggle projects, REST API development experience, and data science/analysis work.
 
 -📫 How to reach me: garrettluisfournier@gmail.com
 
