@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Garrett, and this account is a showcase of my coding projects, data science explorations, and contributions to real-world problem-solving through analytics and development. 
+I'm Garrett, and this account is a showcase of my coding projects, data science explorations, and contributions to real-world problem-solving through analytics and development. I also have repositories that go over the basic of different coding languages for learning and reference purposes.
 
 -🔭 I’m currently working on showcasing my skills through personal projects in coding and data science.
 
