@@ -14,7 +14,7 @@ I'm Garrett, and this account is a showcase of my coding projects, data science 
 
 -⚡ Fun fact: I ranked in the top 80 in a Kaggle competition predicting vehicle prices!
 
-Competencies: Data Engineering, Machine Learning, Python (NumPy, Pandas, TensorFlow, Scikit-learn), SQL, Power BI, Tableau, Full-Stack Development (Node.js, JavaScript, HTML/CSS), Java, C++
+Competencies: Data Engineering, Machine Learning, Python (NumPy, Pandas, TensorFlow, Scikit-learn, PyTorch), SQL, Power BI, Tableau, Full-Stack Development (Node.js, JavaScript, HTML/CSS), Java, C++
 <!--
 **VeryGary/VeryGary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
