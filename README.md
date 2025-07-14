@@ -4,15 +4,13 @@ I'm Garrett, and this account is a showcase of my coding projects, data science 
 
 -🔭 I’m currently working on showcasing my skills through personal projects in coding and data science.
 
--🌱 I’m currently learning AI techniques, machine learning frameworks, and tricks for deriving more insights from data.
-
--💬 Ask me about my Kaggle projects, REST API development experience, and data science/analysis work.
+-💬 Ask me about my Kaggle projects.
 
 -📫 How to reach me: garrettluisfournier@gmail.com
 
 -😄 Pronouns: He/Him
 
--⚡ Fun fact: I ranked in the top 80 in a Kaggle competition predicting vehicle prices!
+-⚡ Best Achievement: I ranked 252/887 in a Kaggle competition to predict housing prices prices!
 
 Competencies: Data Engineering, Machine Learning, Python (NumPy, Pandas, TensorFlow, Scikit-learn, PyTorch), SQL, MySQL, Power BI, Tableau, Full-Stack Development (Node.js, JavaScript, HTML/CSS), Java, C++
 <!--
