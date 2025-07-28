@@ -1,18 +1,26 @@
-## Hi there 👋
+# Hi there 👋
 
-I'm Garrett, and this account is a showcase of my coding projects, data science explorations, and contributions to real-world problem-solving through analytics and development. I also have repositories that go over the basic of different coding languages for learning and reference purposes.
-
--🔭 I’m currently working on showcasing my skills through personal projects in coding and data science.
-
--💬 Ask me about my Kaggle projects.
+I'm Garrett, my GitHub showcases coding projects and data science explorations.
 
 -📫 How to reach me: garrettluisfournier@gmail.com
 
--😄 Pronouns: He/Him
+-⚡ Best Achievement: I ranked Top 0.01% in a Kaggle competition to predict housing prices prices!
 
--⚡ Best Achievement: I ranked 252/887 in a Kaggle competition to predict housing prices prices!
+## Competencies: 
 
-Competencies: Data Engineering, Machine Learning, Python (NumPy, Pandas, TensorFlow, Scikit-learn, PyTorch), SQL, MySQL, Power BI, Tableau, Full-Stack Development (Node.js, JavaScript, HTML/CSS), Java, C++
+### Languages & Frameworks  Python, SQL, JavaScript, Node.js, HTML/CSS, C++
+
+### Data Analysis & Visualization
+Pandas, Matplotlib, Power BI, Tableau, Excel
+
+### Machine Learning & AI
+Scikit-Learn, PyTorch, TensorFlow, XGBoost, CatBoost
+
+### Techniques: 
+Classification, Regression, Feature Engineering, Data Imputation
+
+### MLOps & Tools:
+Jupyter Notebook, Anaconda (Conda), GitHub
 <!--
 **VeryGary/VeryGary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
