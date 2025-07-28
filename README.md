@@ -8,19 +8,11 @@ I'm Garrett, my GitHub showcases coding projects and data science explorations.
 
 ## Competencies: 
 
-### Languages & Frameworks  Python, SQL, JavaScript, Node.js, HTML/CSS, C++
-
-### Data Analysis & Visualization
-Pandas, Matplotlib, Power BI, Tableau, Excel
-
-### Machine Learning & AI
-Scikit-Learn, PyTorch, TensorFlow, XGBoost, CatBoost
-
-### Techniques: 
-Classification, Regression, Feature Engineering, Data Imputation
-
-### MLOps & Tools:
-Jupyter Notebook, Anaconda (Conda), GitHub
+ **Languages & Frameworks:**  Python, SQL, JavaScript, Node.js, HTML/CSS, C++
+**Data Analysis & Visualization:** Pandas, Matplotlib, Power BI, Tableau, Excel
+**Machine Learning & AI:** Scikit-Learn, PyTorch, TensorFlow, XGBoost, CatBoost
+**Techniques:** Classification, Regression, Feature Engineering, Data Imputation
+**MLOps & Tools:** Jupyter Notebook, Anaconda (Conda), GitHub
 <!--
 **VeryGary/VeryGary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
